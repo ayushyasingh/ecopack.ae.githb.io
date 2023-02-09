@@ -1,2 +1,3 @@
 # ecopack.ae.githb.io
-This website is only for reference point of view, owner of this website is ecopack.ae
+Updated version of original website ecopack.ae.
+This website is only for Educational/Understanding point of view, owner of this website is ecopack.ae
