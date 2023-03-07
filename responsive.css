@@ -14,7 +14,7 @@
 .head-r{width:100%;}
 .head2{float:left; background:none; text-align:center; margin-top:18px ;}
 .head2{padding:0;}
-.head3{float:left; background:none; ; padding-right: 50px;}
+.head3{float:left; background:none; display:none; padding-right: 50px;}
 .set1, .set2{}
 .set1, .set2{padding-left:0px; padding-right:0;float:left; margin-bottom:0px;}
 .set3{padding-right:0px; float:left;}
