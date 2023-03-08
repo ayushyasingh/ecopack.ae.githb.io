@@ -1,9 +1,21 @@
 body {
     font-family: 'Open Sans', sans-serif;
     color: #000;
-    font-size: 13px;
+    font-size: 15px;
     background: url(brickwall.png);
 }
+/* body {
+    font-family: 'Script MT', cursive;
+    color: #000;
+    font-size: 23px;
+    background: url(brickwall.png);
+} */
+/* body {
+    font-family: 'Brush Script MT', cursive;
+    color: #000;
+    font-size: 25px;
+    background: url(brickwall.png);
+} */
 
 ul,
 li {
