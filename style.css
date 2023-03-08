@@ -336,10 +336,10 @@ a:hover {
     background-repeat: no-repeat;
     background-position: center 12px;
     text-decoration: none;
-    -webkit-transition: 500ms linear 0s;
-    -moz-transition: 500ms linear 0s;
-    -o-transition: 500ms linear 0s;
-    transition: 500ms linear 0s;
+    -webkit-transition: 0.5s linear 0s;
+    -moz-transition: 0.5s linear 0s;
+    -o-transition: 0.5s linear 0s;
+    transition: 0.5s linear 0s;
 }
 
 .style2:hover {
